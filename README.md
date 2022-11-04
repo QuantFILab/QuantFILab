@@ -1,6 +1,6 @@
 ### Welcome to Quantitative Finance and Insurance Laboratory 👋
 
-QuantFILab focuses on creating the reliable methodologies based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background.
+QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background.
 
 
 #### Reserach Focus
