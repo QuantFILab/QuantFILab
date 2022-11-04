@@ -2,8 +2,12 @@
 
 QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background.
 
-
+<table border="0">
+ <tr>
+    <td> 
+      
 #### Reserach Focus
+      
 :small_blue_diamond: Portfolio Optimization and Asset Allocation
 
 :small_blue_diamond: Quantitative Risk Management
@@ -38,6 +42,20 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 :small_blue_diamond: R and Python scripts as well as Markdown and Jupyter NoteBook for lecture
 
 :small_blue_diamond: Trading Indicators for MT4, MT5, and Trading View (MQL4, MQL5, and Pine Script)
+   
+</td>
+   
+<td>
+  
+    #### Show Case
+  
+  ll
+</td> 
+    
+</tr>
+</table>
+
+
 
 
 
