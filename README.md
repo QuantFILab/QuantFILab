@@ -52,7 +52,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
    
 <td>
   
-  :recycle: <b>Divolio</b>: Green Finance Wealth Management Application
+  :recycle: <b>Divolio</b>: Green Finance Wealth Management Application - Portable Excunable here and Web Applicaion here
  
 </td> 
     
