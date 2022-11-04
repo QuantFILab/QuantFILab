@@ -13,7 +13,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 #### Reserach Focus
       
-:small_blue_diamond: Portfolio Optimization and Asset Allocation
+:small_blue_diamond: Portfolio Optimization and Assets Allocation
 
 :small_blue_diamond: Quantitative Risk Management
 
@@ -48,7 +48,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 :small_blue_diamond: Trading Indicators for MT4, MT5, and Trading View (MQL4, MQL5, and Pine Script)
 
-:small_blue_diamond: Full Auto-Trading System
+:small_blue_diamond: Full Automatic Trading System
       
 </td>
    
