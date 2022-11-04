@@ -3,9 +3,14 @@
 QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background.
 
 <table border="0">
+  <tr>
+   <td><b> Lab Outputs </b></td>
+   <td><b> Show Cases </b></td>
+  </tr>
+ 
  <tr>
     <td> 
-      
+
 #### Reserach Focus
       
 :small_blue_diamond: Portfolio Optimization and Asset Allocation
@@ -47,9 +52,8 @@ QuantFILab focuses on creating the reliable methodologies and software products 
    
 <td>
   
-    #### Show Case
-  
-  ll
+ Divolio 
+ 
 </td> 
     
 </tr>
