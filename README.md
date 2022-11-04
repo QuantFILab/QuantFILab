@@ -14,7 +14,9 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 :small_blue_diamond: Statistical Decision Process
 
-:small_blue_diamond: Algorithmic Trading
+:small_blue_diamond: Algorithmic Trading and Market Microstructure
+
+:small_blue_diamond: Survival and Loss Distributions in Insurance
 
 :small_blue_diamond: FinTech, InsurTech and  WealthTech
 
