@@ -4,7 +4,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 
 #### Reserach Focus
-:small_blue_diamond: Portfolio Theory and Asset Allocation
+:small_blue_diamond: Portfolio Optimization and Asset Allocation
 
 :small_blue_diamond: Quantitative Risk Management
 
@@ -17,6 +17,8 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 :small_blue_diamond: Algorithmic Trading and Market Microstructure
 
 :small_blue_diamond: Survival and Loss Distributions in Insurance
+
+:small_blue_diamond: Operation Research
 
 :small_blue_diamond: FinTech, InsurTech and  WealthTech
 
