@@ -47,12 +47,14 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 :small_blue_diamond: R and Python scripts as well as Markdown and Jupyter NoteBook for lecture
 
 :small_blue_diamond: Trading Indicators for MT4, MT5, and Trading View (MQL4, MQL5, and Pine Script)
-   
+
+:small_blue_diamond: Full Auto-Trading System
+      
 </td>
    
 <td>
   
-  :recycle: <b>Divolio</b>: Green Finance Wealth Management Application - Portable Excunable <a href="https://github.com/QuantFILab/divfolio">here</a> and Web Applicaion here
+  :recycle: <b>Divolio</b>: Green Finance Wealth Management Application - Portable Application <a href="https://github.com/QuantFILab/divfolio">here</a> and Web Applicaion here
  
 </td> 
     
