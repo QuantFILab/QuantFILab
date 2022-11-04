@@ -27,7 +27,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 :small_blue_diamond: Survival and Loss Distributions in Insurance
 
-:small_blue_diamond: Operation Research and Managment Mathematics
+:small_blue_diamond: Operation Research and Management Mathematics
 
 :small_blue_diamond: FinTech, InsurTech and  WealthTech
 
