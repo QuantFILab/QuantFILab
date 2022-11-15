@@ -55,6 +55,8 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 <td>
   
   :recycle: <b>Divolio</b>: Green Finance Wealth Management Application - Portable Application <a href="https://github.com/QuantFILab/divfolio">here</a> and Web Applicaion here
+  
+   :link: <b>ฺBOTapi</b>: R package for connecting to Bank of Thailand API <a href="https://github.com/QuantFILab/BOTapi">here</a> 
  
 </td> 
     
