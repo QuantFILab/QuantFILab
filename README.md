@@ -2,7 +2,6 @@
 
 QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background.
 
-![](./stockmarket.html)
 
 <table border="0">
   <tr>
