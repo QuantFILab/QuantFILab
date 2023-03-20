@@ -27,11 +27,16 @@ ________________________________________________________________________________
 
 :small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition, and :small_blue_diamond: Monte Carlo 
 
+__________________________________________________________________________________________________________________________________________________________________
+
 
 ### Research Products
 <p align="center">
 :small_blue_diamond: Research Paper, :small_blue_diamond: Reserach Report, :small_blue_diamond: Lecture Note
 </p>
+
+__________________________________________________________________________________________________________________________________________________________________
+
 
 ### Software Products
 <p align="center">
