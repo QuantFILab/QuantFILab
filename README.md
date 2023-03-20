@@ -10,21 +10,33 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 ### Reserach Focuses
 #### Financail Mathematics
+
+<p align="center">
 :small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Option, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, and :small_blue_diamond: FinTech
+</p>
 
 #### Acturial Mathemetics
-:small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance , and :small_blue_diamond: Substainable Insurance
 
+<p align="center">
+:small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance , and :small_blue_diamond: Substainable Insurance
+</p>
+  
 #### Statistical Machine Learning
+
+<p align="center">
 :small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition, and :small_blue_diamond: Monte Carlo 
+</p>
 
 ### Research Products
+<p align="center">
 :small_blue_diamond: Research Paper, :small_blue_diamond: Reserach Report, :small_blue_diamond: Lecture Note
+</p>
 
 ### Software Products
+<p align="center">
 :small_blue_diamond: Data Dashboard, Web, Desktop and Moblie Application, :small_blue_diamond: R packages and Python libraries, :small_blue_diamond: R and Python scripts as well as Markdown and Jupyter NoteBook for lecture, :small_blue_diamond: Trading Indicators for MT4, MT5, and Trading View (MQL4, MQL5, and Pine Script)
 , :small_blue_diamond: Full Automatic Trading System
-      
+ </p>     
 
 <!--
 **QuantFILab/QuantFILab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
