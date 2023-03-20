@@ -10,22 +10,16 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 ### Reserach Focuses
 
-<p align="center">
-#### Financail Mathematics
-:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Option, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, and :small_blue_diamond: FinTech
-</p>
 
-#### Acturial Mathemetics
+**Financial Mathematics** :small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Option, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, and :small_blue_diamond: FinTech
 
-<p align="center">
-:small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance , and :small_blue_diamond: Substainable Insurance
-</p>
+
+
+**Acturial Mathemetics** :small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance , and :small_blue_diamond: Substainable Insurance
+
   
-#### Statistical Machine Learning
+**Statistical Machine Learning** :small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition, and :small_blue_diamond: Monte Carlo 
 
-<p align="center">
-:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition, and :small_blue_diamond: Monte Carlo 
-</p>
 
 ### Research Products
 <p align="center">
