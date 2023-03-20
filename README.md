@@ -8,15 +8,6 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 </p>
 
 
-<table border="0">
-  <tr>
-   <td><b> Lab Outputs </b></td>
-   <td><b> Show Cases </b></td>
-  </tr>
- 
- <tr>
-    <td> 
-
 #### Reserach Focus
       
 :small_blue_diamond: Portfolio Optimization and Assets Allocation
@@ -56,24 +47,6 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 :small_blue_diamond: Full Automatic Trading System
       
-</td>
-   
-<td>
-  
-  :recycle: <b>Divolio</b>: Green Finance Wealth Management Application - Portable Application <a href="https://github.com/QuantFILab/divfolio">here</a> and Web Applicaion here
-  
-  :link: <b>ฺBOTapi</b>: R package for connecting to Bank of Thailand API <a href="https://github.com/QuantFILab/BOTapi">here</a> 
- 
-</td> 
-    
-</tr>
-</table>
-
-
-
-
-
-
 
 <!--
 **QuantFILab/QuantFILab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
