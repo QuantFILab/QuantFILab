@@ -1,6 +1,6 @@
 ## Welcome to Quantitative Finance and Insurance Laboratory 👋
 
-QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background. My research profile can be found [here](https://scholar.google.com/citations?hl=en&user=NcoXQYYAAAAJ) and my page can be found [here](https://oporkabbb.wixsite.com/math).
+QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background. My research profile can be found [here](https://scholar.google.com/citations?hl=en&user=NcoXQYYAAAAJ) and my page [here](https://oporkabbb.wixsite.com/math).
 
 <p align="center">
   <img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/sim.gif?raw=true" width="390" height="390"/>
