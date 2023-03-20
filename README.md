@@ -21,18 +21,18 @@ ________________________________________________________________________________
 
 **Financial Mathematics** 
 
-:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Option and Asset Pricing, :small_blue_diamond: Statistical Arbitrage, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, and :small_blue_diamond: FinTech
+:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Option and Asset Pricing, :small_blue_diamond: Statistical Arbitrage, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, :small_blue_diamond: FinTech
 
 
 
 **Acturial Mathemetics** 
 
-:small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance , and :small_blue_diamond: Substainable Insurance
+:small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance, :small_blue_diamond: Substainable Insurance
 
   
 **Statistical Machine Learning** 
 
-:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition, and :small_blue_diamond: Monte Carlo 
+:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition, :small_blue_diamond: Monte Carlo Simulation 
 
 __________________________________________________________________________________________________________________________________________________________________
 
