@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 **Financial Mathematics** 
 
-:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Option, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, and :small_blue_diamond: FinTech
+:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Option and Asset Pricing, :small_blue_diamond: Statistical Arbitrage, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, and :small_blue_diamond: FinTech
 
 
 
