@@ -12,7 +12,7 @@ ________________________________________________________________________________
 ### Showcases
 
 #### Divfolio: Green Finance Wealth Management by Divestment
-Do you want to contribute to improving the social and environment respond to investment? or Do you worry about the influence of rebalancing or withdrawing your capital from some assets? We offer a free-open web application called, Divofolio that can assist you to manage your portfolio and asses an impact on your portfolio's risk. Just [Click Here](https://github.com/QuantFILab/Divfolio).
+Do you want to contribute to improving the social and environment respond to investment? or Do you worry about the influence of rebalancing or withdrawing your capital from some assets? We offer a free-open web application called, Divofolio that can assist you to manage your portfolio and asses an impact on your portfolio's risk. Just [Click Here for User Guide](https://github.com/QuantFILab/Divfolio) and [Here for Web Application](https://quantfilab.shinyapps.io/divfolioserveri/).
 
 
 #### BOTapi: R Package for Connect to Data provided by Bank of Thailand 
