@@ -4,7 +4,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 
 
-<img src="https://github.com/QuantFILab/QuantFILab/raw/master/Figure/sim.gif" width="500" height="500"/>
+<img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/sim.gif?raw=true" width="500" height="500"/>
 
 <table border="0">
   <tr>
