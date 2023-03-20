@@ -45,10 +45,10 @@ ________________________________________________________________________________
 
 
 ### Software Products
-<p align="center">
+
 :small_blue_diamond: Data Dashboard, Web, Desktop and Moblie Application, :small_blue_diamond: R packages and Python libraries, :small_blue_diamond: R and Python scripts as well as Markdown and Jupyter NoteBook for lecture, :small_blue_diamond: Trading Indicators for MT4, MT5, and Trading View (MQL4, MQL5, and Pine Script)
-, :small_blue_diamond: Full Automatic Trading System
- </p>     
+, and :small_blue_diamond: Full Automatic Trading System
+      
 
 __________________________________________________________________________________________________________________________________________________________________
 
