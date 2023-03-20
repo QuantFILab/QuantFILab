@@ -10,14 +10,16 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 ### Reserach Focuses
 #### Financail Mathematics
-:small_blue_diamond: Portfolio Optimization and Assets Allocation, :small_blue_diamond: Quantitative Risk Management, Time Series and Economatrics, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: Operation Research and Management Mathematics, :small_blue_diamond: FinTech, InsurTech and  WealthTech
+:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, Time Series and Economatrics, :small_blue_diamond: Algorithmic Trading and Market Microstructure, and :small_blue_diamond: FinTech
 
 #### Acturial Mathemetics
+:small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance , and :small_blue_diamond: Substainable Insurance
 
 #### Statistical Machine Learning
-:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition   
+:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition 
+
 ### Research Products
-:small_blue_diamond: Research Paper, :small_blue_diamond: Reserach Report, :small_blue_diamond: Lecture Note and Sildes
+:small_blue_diamond: Research Paper, :small_blue_diamond: Reserach Report, :small_blue_diamond: Lecture Note
 
 ### Software Products
 :small_blue_diamond: Data Dashboard, Web, Desktop and Moblie Application, :small_blue_diamond: R packages and Python libraries, :small_blue_diamond: R and Python scripts as well as Markdown and Jupyter NoteBook for lecture, :small_blue_diamond: Trading Indicators for MT4, MT5, and Trading View (MQL4, MQL5, and Pine Script)
