@@ -1,6 +1,6 @@
 ## Welcome to Quantitative Finance and Insurance Laboratory 👋
 
-QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background.
+QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background. My research profile can be found [here](https://scholar.google.com/citations?hl=en&user=NcoXQYYAAAAJ).
 
 <p align="center">
   <img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/sim.gif?raw=true" width="390" height="390"/>
@@ -18,6 +18,7 @@ Do you want to contribute to improving the social and environment respond to inv
 #### BOTapi: R Package for Connect to Data provided by Bank of Thailand 
 
 Do you interest in Thai's financial and economic data? We offer an R package, called BOTapi, which allows you to receive around five hundred data sets for free without dealing with the API and JSON format. Just [Click Here](https://github.com/QuantFILab/BOTapi).
+
 __________________________________________________________________________________________________________________________________________________________________
 
 
