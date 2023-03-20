@@ -1,4 +1,4 @@
-### Welcome to Quantitative Finance and Insurance Laboratory 👋
+## Welcome to Quantitative Finance and Insurance Laboratory 👋
 
 QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background.
 
@@ -8,7 +8,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 </p>
 
 
-#### Reserach Focus
+### Reserach Focus
       
 :small_blue_diamond: Portfolio Optimization and Assets Allocation
 
@@ -29,14 +29,14 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 :small_blue_diamond: FinTech, InsurTech and  WealthTech
 
 
-#### Research Products
+### Research Products
 :small_blue_diamond: Research Paper
 
 :small_blue_diamond: Reserach Report
 
 :small_blue_diamond: Lecture Note and Sildes
 
-#### Software Products
+### Software Products
 :small_blue_diamond: Data Dashboard, Web, Desktop and Moblie Application
 
 :small_blue_diamond: R packages and Python libraries
