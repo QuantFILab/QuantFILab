@@ -2,10 +2,11 @@
 
 QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background.
 
+<p align="center">
+  <img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/sim.gif?raw=true" width="400" height="400"/>
+  <img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/life.gif?raw=true" width="400" height="400"/>
+</p>
 
-
-<img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/sim.gif?raw=true" width="400" height="400"/>
-<img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/life.gif?raw=true" width="200" height="200"/>
 
 <table border="0">
   <tr>
