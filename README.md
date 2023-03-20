@@ -38,7 +38,7 @@ ________________________________________________________________________________
   
 **Statistical Machine Learning** 
 
-:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition, :small_blue_diamond: Monte Carlo Simulation 
+:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, :small_blue_diamond: PCA and Matrix Decomposition, :small_blue_diamond: Monte Carlo Simulation 
 
 __________________________________________________________________________________________________________________________________________________________________
 
