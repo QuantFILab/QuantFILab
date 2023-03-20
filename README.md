@@ -7,6 +7,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
   <img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/life.gif?raw=true" width="390" height="390"/>
 </p>
 
+__________________________________________________________________________________________________________________________________________________________________
 
 ### Reserach Focuses
 
