@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 
 
-**Acturial Mathemetics** 
+**Actuarial Mathemetics** 
 
 :small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance, :small_blue_diamond: Substainable Insurance
 
