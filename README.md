@@ -15,7 +15,7 @@ ________________________________________________________________________________
 Do you want to contribute to improving the social and environment respond to investment? or Do you worry about the influence of rebalancing or withdrawing your capital from some assets? We offer a free-open web application called, Divofolio that can assist you to manage your portfolio and asses an impact on your portfolio's risk. Just [Click Here](https://github.com/QuantFILab/Divfolio).
 
 
-#### BOTapi: R Package for Connect to Data provided Bank of Thailand 
+#### BOTapi: R Package for Connect to Data provided by Bank of Thailand 
 
 Do you interest in Thai's financial and economic data? We offer an R package, called BOTapi, which allows you to receive around five hundred data sets for free without dealing with the API and JSON format. Just [Click Here](https://github.com/QuantFILab/BOTapi).
 __________________________________________________________________________________________________________________________________________________________________
