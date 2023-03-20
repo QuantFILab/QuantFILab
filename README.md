@@ -10,7 +10,7 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 
 ### Reserach Focuses
 #### Financail Mathematics
-:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, Time Series and Economatrics, :small_blue_diamond: Algorithmic Trading and Market Microstructure, and :small_blue_diamond: FinTech
+:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, and :small_blue_diamond: FinTech
 
 #### Acturial Mathemetics
 :small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance , and :small_blue_diamond: Substainable Insurance
