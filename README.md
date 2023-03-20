@@ -8,11 +8,14 @@ QuantFILab focuses on creating the reliable methodologies and software products 
 </p>
 
 
-### Reserach Focus
-      
-:small_blue_diamond: Portfolio Optimization and Assets Allocation, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Statistical Machine Learning, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: Operation Research and Management Mathematics, :small_blue_diamond: FinTech, InsurTech and  WealthTech
+### Reserach Focuses
+#### Financail Mathematics
+:small_blue_diamond: Portfolio Optimization and Assets Allocation, :small_blue_diamond: Quantitative Risk Management, Time Series and Economatrics, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: Operation Research and Management Mathematics, :small_blue_diamond: FinTech, InsurTech and  WealthTech
 
+#### Acturial Mathemetics
 
+#### Statistical Machine Learning
+:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, and :small_blue_diamond: PCA and Matrix Decomposition   
 ### Research Products
 :small_blue_diamond: Research Paper, :small_blue_diamond: Reserach Report, :small_blue_diamond: Lecture Note and Sildes
 
