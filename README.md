@@ -18,21 +18,16 @@ ________________________________________________________________________________
 
 ### Showcases
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td> <img src="https://github.com/QuantFILab/Divfolio/blob/main/Figures/openpage.png?raw=true" width="200" height="100"/> </td>  
-    <td><img></td>
-  </tr>
-</table>
-
 #### Divfolio: Green Finance Wealth Management by Divestment
-
+<img align="left" src="https://github.com/QuantFILab/Divfolio/blob/main/Figures/openpage.png?raw=true" width="350" height="200"/> 
 Introducing Divfolio - the free, open web application designed to help you make a positive impact on society and the environment through your investments. With Divfolio, you can manage your portfolio with ease while assessing the impact on your risk profile. Say goodbye to worries about the influence of rebalancing or withdrawing capital from certain assets. Whether you're a seasoned investor or just starting out, Divfolio is the perfect tool to help you align your investment strategy with your personal values. And the best part? It's completely free to use. Click here to access our [User Guide](https://github.com/QuantFILab/Divfolio) and   and start using [Divfolio](https://quantfilab.shinyapps.io/divfolioserveri/) today.
 
 
 #### BOTapi: R Package for Connect to Data provided by Bank of Thailand 
 
-Do you interest in Thai's financial and economic data? We offer an R package, called BOTapi, which allows you to receive around five hundred data sets for free without dealing with the API and JSON format. Just [Click Here](https://github.com/QuantFILab/BOTapi).
+<img align="left" src="https://github.com/QuantFILab/Divfolio/blob/main/Figures/openpage.png?raw=true" width="350" height="200"/> 
+
+BOTapi is an R package designed specifically for those who are interested in accessing financial and economic data related to Thailand. With this package, you can access approximately 500 data sets without having to deal with the complexities of working with an API and JSON format. Using BOTapi is easy - all you need to do is click the link provided and you'll have access to a wealth of information related to Thailand's financial and economic landscape. This package is a great tool for anyone who wants to conduct research or analysis related to the Thai economy, as it offers a convenient and efficient way to gather data. [Click Here](https://github.com/QuantFILab/BOTapi).
 
 __________________________________________________________________________________________________________________________________________________________________
 
