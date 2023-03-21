@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td> <img src="https://github.com/QuantFILab/Divfolio/blob/main/Figures/openpage.png?raw=true" width="390" height="390"/> </td>  
+    <td> <img src="https://github.com/QuantFILab/Divfolio/blob/main/Figures/openpage.png?raw=true" width="200" height="100"/> </td>  
     <td><img></td>
   </tr>
 </table>
