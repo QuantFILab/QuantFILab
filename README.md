@@ -87,7 +87,8 @@ ________________________________________________________________________________
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=quantfilab&left_color=red&right_color=green) 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QuantFILab/QuantFILab/master/profile-3d-contrib/profile-green-animate.svg"/>
+</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantfilab&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
