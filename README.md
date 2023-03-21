@@ -10,20 +10,20 @@ Welcome to QuantFILab! We are dedicated to developing cutting-edge methodologies
 __________________________________________________________________________________________________________________________________________________________________
 <img align="right" width="150" height="200" src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/Pasin.jpg?raw=true">
 
-### About Me
+## About Me
 
 Hi there, it's great to connect with you! My name is Pasin Marupanthorn, and I'm currently pursuing a Ph.D. in Actuarial Mathematics at Heriot-Watt University. As an independent quantitative researcher and developer, I specialize in sustainability, investment, and modeling using advanced mathematical and statistical techniques. I'm passionate about creating innovative solutions that address complex challenges in a variety of industries. Whether it's collaborating with colleagues in academia or working with industry professionals, I'm always eager to connect and explore new opportunities. Thanks for stopping by, and feel free to reach out to learn more about my work! My research profile can be found [here](https://scholar.google.com/citations?hl=en&user=NcoXQYYAAAAJ) and my page [here](https://oporkabbb.wixsite.com/math).
 __________________________________________________________________________________________________________________________________________________________________
 
 
-### Showcases
+## Showcases
 
-#### Divfolio: Green Finance Wealth Management by Divestment
+### Divfolio: Green Finance Wealth Management by Divestment
 <img align="left" src="https://github.com/QuantFILab/Divfolio/blob/main/Figures/openpage.png?raw=true" width="350" height="200"/> 
 Introducing Divfolio - the free, open web application designed to help you make a positive impact on society and the environment through your investments. With Divfolio, you can manage your portfolio with ease while assessing the impact on your risk profile. Say goodbye to worries about the influence of rebalancing or withdrawing capital from certain assets. Whether you're a seasoned investor or just starting out, Divfolio is the perfect tool to help you align your investment strategy with your personal values. And the best part? It's completely free to use. Click here to access our [User Guide](https://github.com/QuantFILab/Divfolio) and   and start using [Divfolio](https://quantfilab.shinyapps.io/divfolioserveri/) today.
 
 
-#### BOTapi: R Package for Connect to Data provided by Bank of Thailand 
+### BOTapi: R Package for Connect to Data provided by Bank of Thailand 
 
 <img align="right" src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/botapi.png?raw=true" width="400" height="200"/> 
 
@@ -32,7 +32,7 @@ BOTapi is an R package designed specifically for those who are interested in acc
 __________________________________________________________________________________________________________________________________________________________________
 
 
-### Reserach Focuses
+## Reserach Focuses
 
 
 **Financial Mathematics** 
@@ -53,14 +53,14 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________
 
 
-### Research Products
+## Research Products
 
 :small_blue_diamond: Research Paper, :small_blue_diamond: Reserach Report, :small_blue_diamond: Lecture Note
 
 __________________________________________________________________________________________________________________________________________________________________
 
 
-### Software Products
+## Software Products
 
 :small_blue_diamond: Data Dashboard, Web, Desktop and Moblie Application, :small_blue_diamond: R packages and Python libraries, :small_blue_diamond: R and Python scripts, :small_blue_diamond: Markdown and Jupyter NoteBook for lecture, :small_blue_diamond: Trading Indicators for MT4, MT5, and Trading View (MQL4, MQL5, and Pine Script)
 , :small_blue_diamond: Full Automatic Trading System
