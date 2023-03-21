@@ -10,7 +10,7 @@ Welcome to QuantFILab! We are dedicated to developing cutting-edge methodologies
 
 ## About Me
 
-<img align="right" width="150" height="200" src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/Pasin.jpg?raw=true">
+<img align="right" width="140" height="180" src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/Pasin.jpg?raw=true">
 
 Hi there, it's great to connect with you! My name is Pasin Marupanthorn, and I'm currently pursuing a Ph.D. in Actuarial Mathematics at Heriot-Watt University. As an independent quantitative researcher and developer, I specialize in sustainability, investment, and modeling using advanced mathematical and statistical techniques. I'm passionate about creating innovative solutions that address complex challenges in a variety of industries. Whether it's collaborating with colleagues in academia or working with industry professionals, I'm always eager to connect and explore new opportunities. Thanks for stopping by, and feel free to reach out to learn more about my work! My research profile can be found [here](https://scholar.google.com/citations?hl=en&user=NcoXQYYAAAAJ) and my page [here](https://oporkabbb.wixsite.com/math).
 
