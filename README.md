@@ -1,6 +1,6 @@
 ## Welcome to Quantitative Finance and Insurance Laboratory 👋
 
-QuantFILab focuses on creating the reliable methodologies and software products based on mathematical, statistical and machine learning techniques in finance and insurance. The productions are based on the reliable research background. My research profile can be found [here](https://scholar.google.com/citations?hl=en&user=NcoXQYYAAAAJ) and my page [here](https://oporkabbb.wixsite.com/math).
+Welcome to QuantFILab! We are dedicated to developing cutting-edge methodologies and software products that utilize advanced mathematical, statistical, and machine learning techniques to solve complex challenges in the fields of finance and insurance. Our solutions are built upon a strong foundation of rigorous research, ensuring that our clients receive only the most reliable and effective tools for their needs. With a focus on innovation and precision, we strive to provide the highest level of service and expertise. We look forward to the opportunity to work with you.
 
 <p align="center">
   <img src="https://github.com/QuantFILab/QuantFILab/blob/master/Figure/sim.gif?raw=true" width="390" height="390"/>
@@ -12,13 +12,21 @@ ________________________________________________________________________________
 
 ### About Me
 
-Hi there, it's great to connect with you! My name is Pasin Marupanthorn, and I'm currently pursuing a Ph.D. in Actuarial Mathematics at Heriot-Watt University. As an independent quantitative researcher and developer, I specialize in sustainability, investment, and modeling using advanced mathematical and statistical techniques. I'm passionate about creating innovative solutions that address complex challenges in a variety of industries. Whether it's collaborating with colleagues in academia or working with industry professionals, I'm always eager to connect and explore new opportunities. Thanks for stopping by, and feel free to reach out to learn more about my work!
+Hi there, it's great to connect with you! My name is Pasin Marupanthorn, and I'm currently pursuing a Ph.D. in Actuarial Mathematics at Heriot-Watt University. As an independent quantitative researcher and developer, I specialize in sustainability, investment, and modeling using advanced mathematical and statistical techniques. I'm passionate about creating innovative solutions that address complex challenges in a variety of industries. Whether it's collaborating with colleagues in academia or working with industry professionals, I'm always eager to connect and explore new opportunities. Thanks for stopping by, and feel free to reach out to learn more about my work! My research profile can be found [here](https://scholar.google.com/citations?hl=en&user=NcoXQYYAAAAJ) and my page [here](https://oporkabbb.wixsite.com/math).
 __________________________________________________________________________________________________________________________________________________________________
 
 
 ### Showcases
 
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img></td> 
+    <td><img></td>
+  </tr>
+</table>
+
 #### Divfolio: Green Finance Wealth Management by Divestment
+![alt text](https://github.com/QuantFILab/Divfolio/blob/main/Figures/openpage.png?raw=true)
 Do you want to contribute to improving the social and environment respond to investment? or Do you worry about the influence of rebalancing or withdrawing your capital from some assets? We offer a free-open web application called, Divofolio that can assist you to manage your portfolio and asses an impact on your portfolio's risk. Just [Click Here for User Guide](https://github.com/QuantFILab/Divfolio) and [Here for Web Application](https://quantfilab.shinyapps.io/divfolioserveri/).
 
 
