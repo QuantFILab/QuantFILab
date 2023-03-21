@@ -25,9 +25,9 @@ Introducing Divfolio - the free, open web application designed to help you make 
 
 #### BOTapi: R Package for Connect to Data provided by Bank of Thailand 
 
-<img align="right" src="https://github.com/QuantFILab/Divfolio/blob/main/Figures/openpage.png?raw=true" width="350" height="200"/> 
+<img align="right" src="https://github.com/QuantFILab/Divfolio/blob/main/Figures/botapi.png?raw=true" width="350" height="200"/> 
 
-BOTapi is an R package designed specifically for those who are interested in accessing financial and economic data related to Thailand. With this package, you can access approximately 500 data sets without having to deal with the complexities of working with an API and JSON format. Using BOTapi is easy - all you need to do is click the link provided and you'll have access to a wealth of information related to Thailand's financial and economic landscape. This package is a great tool for anyone who wants to conduct research or analysis related to the Thai economy, as it offers a convenient and efficient way to gather data. [Click Here](https://github.com/QuantFILab/BOTapi).
+BOTapi is an R package designed specifically for those who are interested in accessing financial and economic data related to Thailand. With this package, you can access approximately 500 data sets without having to deal with the complexities of working with an API and JSON format. Using BOTapi is easy - all you need to do is click the link provided and you'll have access to a wealth of information related to Thailand's financial and economic landscape. This package is a great tool for anyone who wants to conduct research or analysis related to the Thai economy, as it offers a convenient and efficient way to gather data. [Click Here](https://github.com/QuantFILab/BOTapi). Regist for free account at official BOT page [here](https://apiportal.bot.or.th/bot/public/). Figure retieved from BOT page.
 
 __________________________________________________________________________________________________________________________________________________________________
 
