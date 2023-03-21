@@ -13,7 +13,6 @@ ________________________________________________________________________________
 ## About Me
 
 Hi there, it's great to connect with you! My name is Pasin Marupanthorn, and I'm currently pursuing a Ph.D. in Actuarial Mathematics at Heriot-Watt University. As an independent quantitative researcher and developer, I specialize in sustainability, investment, and modeling using advanced mathematical and statistical techniques. I'm passionate about creating innovative solutions that address complex challenges in a variety of industries. Whether it's collaborating with colleagues in academia or working with industry professionals, I'm always eager to connect and explore new opportunities. Thanks for stopping by, and feel free to reach out to learn more about my work! My research profile can be found [here](https://scholar.google.com/citations?hl=en&user=NcoXQYYAAAAJ) and my page [here](https://oporkabbb.wixsite.com/math).
-__________________________________________________________________________________________________________________________________________________________________
 
 
 ## Showcases
@@ -29,7 +28,6 @@ Introducing Divfolio - the free, open web application designed to help you make 
 
 BOTapi is an R package designed specifically for those who are interested in accessing financial and economic data related to Thailand. With this package, you can access approximately 500 data sets without having to deal with the complexities of working with an API and JSON format. Using BOTapi is easy - all you need to do is click the link provided and you'll have access to a wealth of information related to Thailand's financial and economic landscape. This package is a great tool for anyone who wants to conduct research or analysis related to the Thai economy, as it offers a convenient and efficient way to gather data. [Click Here](https://github.com/QuantFILab/BOTapi). Regist for free account at official BOT page [here](https://apiportal.bot.or.th/bot/public/). Figure retieved from BOT page.
 
-__________________________________________________________________________________________________________________________________________________________________
 
 
 ## Reserach Focuses
@@ -50,14 +48,12 @@ ________________________________________________________________________________
 
 :small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, :small_blue_diamond: PCA and Matrix Decomposition, :small_blue_diamond: Monte Carlo Simulation 
 
-__________________________________________________________________________________________________________________________________________________________________
+
 
 
 ## Research Products
 
 :small_blue_diamond: Research Paper, :small_blue_diamond: Reserach Report, :small_blue_diamond: Lecture Note
-
-__________________________________________________________________________________________________________________________________________________________________
 
 
 ## Software Products
@@ -66,7 +62,6 @@ ________________________________________________________________________________
 , :small_blue_diamond: Full Automatic Trading System
       
 
-__________________________________________________________________________________________________________________________________________________________________
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
