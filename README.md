@@ -86,64 +86,52 @@ BOTapi is an R package designed specifically for those who are interested in acc
   <img src="https://raw.githubusercontent.com/QuantFILab/QuantFILab/master/profile-3d-contrib/profile-green-animate.svg"/>
 </p>
 
-<div class="card card-profile shadow">
-  <div class="px-4">
-    <div class="row justify-content-center">
-      <div class="col-lg-3 order-lg-2">
-        <div class="card-profile-image">
-          <a>
-            <img src="image//Puture.jpg" class="rounded-circle"/>
+
+<div class="table-responsive">
+  <table class="table align-items-center table-flush">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">PROJECT</th>
+        <th scope="col">BUDGET</th>
+        <th scope="col">STATUS</th>
+        <th scope="col">USERS</th>
+        <th scope="col">COMPLETION</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Argon Design System</th>
+        <td>$2,500 USD</td>
+        <td>
+          <span class="badge badge-danger">Pending</span>
+        </td>
+        <th>
+          <a class="avatar avatar-sm" data-toggle="tooltip">
+            <img src="https://image.flaticon.com/icons/svg/219/219976.svg" class="rounded-circle"/>
           </a>
-        </div>
-      </div>
-      <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
-        <div class="card-profile-actions py-4 mt-lg-0">
-          <a href="https://www.google.com" target="_blank" class="btn btn-sm btn-info mr-4">Link 1</a>
-          <a href="https://www.google.com" target="_blank" class="btn btn-sm btn-default float-right">Link 2</a>
-        </div>
-      </div>
-      <div class="col-lg-4 order-lg-1">
-        <div class="card-profile-stats d-flex justify-content-center">
-          <div>
-            <span class="heading">22</span>
-            <span class="description">Friends</span>
+        </th>
+        <td>
+          <div class="progress-wrapper">
+            <div class="progress-info">
+              <div class="progress-percentage">
+                <span>60%</span>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
+            </div>
           </div>
-          <div>
-            <span class="heading">10</span>
-            <span class="description">Photos</span>
-          </div>
-          <div>
-            <span class="heading">89</span>
-            <span class="description">Comments</span>
-          </div>
-          <div>
-            <span class="heading">22</span>
-            <span class="description">Friends</span>
-          </div>
-          <div>
-            <span class="heading">22</span>
-            <span class="description">Friends</span>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="text-center mt-5">
-      <h3>Pasin Marupanthorn</h3>
-      <div class="h6 font-weight-300">Japan, Kagoshima</div>
-    </div>
-    <div class="mt-5 py-5 border-top text-center">
-      <div class="row justify-content-center">
-        <div class="col-lg-9">
-          <p>An artist of considerable range, Ryan
-the name taken by Melbourne-raised,
-Brooklyn-based Nick Murphy writes,
-performs and records all of his own music,
-giving it a warm, intimate feel with a solid
-groove structure. An artist of considerable
-range.</p>
-          <a href="https://www.google.com" target="_blank">More</a>
-        </div>
-      </div>
-    </div>
-  </div>
+        </td>
+        <th>
+          <button class="btn btn-warning btn-sm" type="button">
+            <a target="_blank">
+              <span class="btn-inner--icon">atom</span>
+              <span class="btn-inner--text">Click me!</span>
+            </a>
+          </button>
+        </th>
+      </tr>
+    </tbody>
+  </table>
 </div>
