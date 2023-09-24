@@ -54,7 +54,7 @@ BOTapi is an R package designed specifically for those who are interested in acc
 -  PCA and Matrix Decomposition
 -  Monte Carlo Simulation
 
-## :bulb: Research Products
+## Research Products
 -  Research Paper
 -  Research Report
 -  Lecture Note
