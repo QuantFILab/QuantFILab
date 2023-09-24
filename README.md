@@ -29,31 +29,35 @@ Introducing Divfolio - the free, open web application designed to help you make 
 BOTapi is an R package designed specifically for those who are interested in accessing financial and economic data related to Thailand. With this package, you can access approximately 500 data sets without having to deal with the complexities of working with an API and JSON format. Using BOTapi is easy - all you need to do is click the link provided and you'll have access to a wealth of information related to Thailand's financial and economic landscape. This package is a great tool for anyone who wants to conduct research or analysis related to the Thai economy, as it offers a convenient and efficient way to gather data. [Click Here](https://github.com/QuantFILab/BOTapi). Regist for free account at official BOT page [here](https://apiportal.bot.or.th/bot/public/). Figure retieved from BOT page.
 
 
+## :book: Research Focuses
 
-## Reserach Focuses
+### :abacus: Financial Mathematics
+- :small_blue_diamond: Portfolio Optimization
+- :small_blue_diamond: Quantitative Risk Management
+- :small_blue_diamond: Time Series and Econometrics
+- :small_blue_diamond: Option and Asset Pricing
+- :small_blue_diamond: Statistical Arbitrage
+- :small_blue_diamond: Algorithmic Trading and Market Microstructure
+- :small_blue_diamond: Sustainable Finance
+- :small_blue_diamond: FinTech
 
+### :chart_with_upwards_trend: Actuarial Mathematics
+- :small_blue_diamond: Survival and Loss Distributions in Insurance
+- :small_blue_diamond: InsurTech
+- :small_blue_diamond: Decentralized Insurance
+- :small_blue_diamond: Sustainable Insurance
+- :small_blue_diamond: Pension Investment
 
-**Financial Mathematics** 
+### :robot: Statistical Machine Learning
+- :small_blue_diamond: Statistical Decision Process
+- :small_blue_diamond: Clustering
+- :small_blue_diamond: PCA and Matrix Decomposition
+- :small_blue_diamond: Monte Carlo Simulation
 
-:small_blue_diamond: Portfolio Optimization, :small_blue_diamond: Quantitative Risk Management, :small_blue_diamond: Time Series and Economatrics, :small_blue_diamond: Option and Asset Pricing, :small_blue_diamond: Statistical Arbitrage, :small_blue_diamond: Algorithmic Trading and Market Microstructure, :small_blue_diamond: Substainable Finance, :small_blue_diamond: FinTech
-
-
-
-**Actuarial Mathemetics** 
-
-:small_blue_diamond: Survival and Loss Distributions in Insurance, :small_blue_diamond: InsurTech, :small_blue_diamond: Decentralized Insurance, :small_blue_diamond: Substainable Insurance, :small_blue_diamond: Pension Investment
-
-  
-**Statistical Machine Learning** 
-
-:small_blue_diamond: Statistical Decision Process, :small_blue_diamond: Clustering, :small_blue_diamond: PCA and Matrix Decomposition, :small_blue_diamond: Monte Carlo Simulation 
-
-
-
-
-## Research Products
-
-:small_blue_diamond: Research Paper, :small_blue_diamond: Reserach Report, :small_blue_diamond: Lecture Note
+## :bulb: Research Products
+- :small_blue_diamond: Research Paper
+- :small_blue_diamond: Research Report
+- :small_blue_diamond: Lecture Note
 
 
 ## Software Products
