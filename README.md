@@ -29,17 +29,17 @@ Introducing Divfolio - the free, open web application designed to help you make 
 BOTapi is an R package designed specifically for those who are interested in accessing financial and economic data related to Thailand. With this package, you can access approximately 500 data sets without having to deal with the complexities of working with an API and JSON format. Using BOTapi is easy - all you need to do is click the link provided and you'll have access to a wealth of information related to Thailand's financial and economic landscape. This package is a great tool for anyone who wants to conduct research or analysis related to the Thai economy, as it offers a convenient and efficient way to gather data. [Click Here](https://github.com/QuantFILab/BOTapi). Regist for free account at official BOT page [here](https://apiportal.bot.or.th/bot/public/). Figure retieved from BOT page.
 
 
-## :book: Research Focuses
+## Research Focuses
 
-### :abacus: Financial Mathematics
-- :small_blue_diamond: Portfolio Optimization
-- :small_blue_diamond: Quantitative Risk Management
-- :small_blue_diamond: Time Series and Econometrics
-- :small_blue_diamond: Option and Asset Pricing
-- :small_blue_diamond: Statistical Arbitrage
-- :small_blue_diamond: Algorithmic Trading and Market Microstructure
-- :small_blue_diamond: Sustainable Finance
-- :small_blue_diamond: FinTech
+### Financial Mathematics
+- Portfolio Optimization
+- Quantitative Risk Management
+- Time Series and Econometrics
+- Option and Asset Pricing
+- Statistical Arbitrage
+- Algorithmic Trading and Market Microstructure
+- Sustainable Finance
+- FinTech
 
 ### Actuarial Mathematics
 - Survival and Loss Distributions in Insurance
