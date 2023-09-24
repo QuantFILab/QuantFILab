@@ -41,23 +41,23 @@ BOTapi is an R package designed specifically for those who are interested in acc
 - :small_blue_diamond: Sustainable Finance
 - :small_blue_diamond: FinTech
 
-### :chart_with_upwards_trend: Actuarial Mathematics
-- :small_blue_diamond: Survival and Loss Distributions in Insurance
-- :small_blue_diamond: InsurTech
-- :small_blue_diamond: Decentralized Insurance
-- :small_blue_diamond: Sustainable Insurance
-- :small_blue_diamond: Pension Investment
+### Actuarial Mathematics
+- Survival and Loss Distributions in Insurance
+- InsurTech
+- Decentralized Insurance
+- Sustainable Insurance
+- Pension Investment
 
-### :robot: Statistical Machine Learning
-- :small_blue_diamond: Statistical Decision Process
-- :small_blue_diamond: Clustering
-- :small_blue_diamond: PCA and Matrix Decomposition
-- :small_blue_diamond: Monte Carlo Simulation
+### Statistical Machine Learning
+-  Statistical Decision Process
+-  Clustering
+-  PCA and Matrix Decomposition
+-  Monte Carlo Simulation
 
 ## :bulb: Research Products
-- :small_blue_diamond: Research Paper
-- :small_blue_diamond: Research Report
-- :small_blue_diamond: Lecture Note
+-  Research Paper
+-  Research Report
+-  Lecture Note
 
 
 ## Software Products
