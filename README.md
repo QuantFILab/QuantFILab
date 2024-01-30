@@ -1,19 +1,5 @@
 ## Welcome to Quantitative Finance and Insurance Laboratory 👋
 
-<div align="center">
-  <img src="https://picsum.photos/g/3000/2000" alt="Background" style="width:100%; height:auto;">
-  <div style="background-color:#f7f5ec; text-align:center; padding:20px; margin-top:-200px;">
-    <img src="your-profile-image-url" alt="Your Name" style="width:130px; height:130px; border-radius:50%; margin-top:-130px;">
-    <h2>Your Name</h2>
-    <p>Your Role or a Brief Introduction</p>
-    <div style="background-color:#1369ce; padding:10px;">
-      <a href="your-linkedin-url" style="color:white; text-decoration:none;">LinkedIn</a> |
-      <a href="your-github-url" style="color:white; text-decoration:none;">GitHub</a>
-      <!-- More links as needed -->
-    </div>
-  </div>
-</div>
-
 Welcome to QuantFILab! We are dedicated to developing cutting-edge methodologies and software products that utilize advanced mathematical, statistical, and machine learning techniques to solve complex challenges in the fields of finance and insurance. Our solutions are built upon a strong foundation of rigorous research, ensuring that our clients receive only the most reliable and effective tools for their needs. With a focus on innovation and precision, we strive to provide the highest level of service and expertise. We look forward to the opportunity to work with you.
 
 <p align="center">
